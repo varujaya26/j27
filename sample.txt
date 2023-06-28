@@ -8,3 +8,5 @@ this code send by dev 2 from hub
 this line to add the command of log
 
 git stash
+git log
+git log --oneline
