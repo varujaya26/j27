@@ -10,3 +10,6 @@ this line to add the command of log
 git stash
 git log
 git log --oneline
+
+
+revert
