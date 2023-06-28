@@ -3,5 +3,6 @@ this line add using loacl machine after cloning
 
 this line added by dev-1 from local
 
-this code send by dev 2 from hub
 
+this code send by dev 2 from hub
+this line to add the command of log
