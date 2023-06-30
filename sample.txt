@@ -14,4 +14,5 @@ git log --oneline
 
 revert
 
-this is a test line
+this is a test first line
+this is a test second line
